@@ -8,7 +8,6 @@
 ## Live Demo
 
 👉 **[https://ctwtranslation-agent-hdpzjmh8aavpw6xcjruynd.streamlit.app/](https://ctwtranslation-agent-hdpzjmh8aavpw6xcjruynd.streamlit.app/)**  
-*(Replace with your actual Streamlit Cloud URL after deployment)*
 
 ---
 
