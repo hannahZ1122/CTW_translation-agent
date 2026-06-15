@@ -88,7 +88,7 @@ The output CSV uses UTF-8 BOM encoding — a practical detail that ensures Chine
 ## Local Development
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/translation-agent
+git clone https://github.com/hannahZ1122/CTW_translation-agent
 cd translation-agent
 pip install -r requirements.txt
 
@@ -107,4 +107,6 @@ OPENAI_API_KEY = "sk-..."
 
 ## Sample Data
 
-A sample CSV (`sample_game_items.csv`) with **105 rows** of game item data (names, descriptions, skill effects) is included for testing. This mirrors a real G123-style game localization use case.
+Two sample CSVs are included in the `samples/` folder:
+- `sample_game_items.csv` — 105 rows of game item data (names, descriptions, skill effects)
+- `ctw_localization_test.csv` — 20 rows of game UI strings, quest text, NPC dialogue, mirroring real G123 localization scenarios
